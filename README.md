@@ -45,7 +45,7 @@
 2. Продемонстрировать доступ с помощью браузера или `curl` с локального компьютера.
 3. Предоставить манифест и Service в решении, а также скриншоты или вывод команды п.2.
 
-[service-nodeport](service-node.yaml)
+[service-nodeport](service-nodeport.yaml)
 
 ![](2.png)
 
